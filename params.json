@@ -1,0 +1,6 @@
+{
+  "name": "Simple Lorem Ipsum",
+  "tagline": "Simple Lorem Ipsum Webextension for Web Developers",
+  "body": "This extension provides a simple Lorem Ipsum generator.\r\nIt produces some dummy text for web developers to test form fields.\r\n\r\nWhen using the context menu on a form field, you are able to insert some \r\nLorem Ipsum dummy text. You can also achieve this using the hotkey \r\n- on Windows: ```Ctrl+Shift+V``` \r\n- on MacOS: ```Command+Shift+V```.\r\n\r\nIf you want to bind the hotkey to another key, please consider installing\r\n[this extension](https://addons.mozilla.org/en-US/firefox/addon/s3menu-wizard/).\r\n\r\n## Requirements\r\n\r\nThis extension has been successfully tested with:\r\n- Mozilla Firefox 48.0+\r\n- Chromium 51.0+\r\n\r\n## Contributing\r\n\r\nIf you want to contribute, please use Javascript ES6 (2015).\r\nTranslations for any language are always welcome.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
